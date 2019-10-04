@@ -91,7 +91,6 @@ class Main
 		Queue q = new Queue(5);
 
 		q.enqueue(1);
-		q.enqueue(2);
 		q.enqueue(3);
 		
 		System.out.println("Front element is: " + q.peek());
